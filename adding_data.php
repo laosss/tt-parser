@@ -17,7 +17,6 @@ for( $i = 0; $i < $cnt; $i++ ) {
     }
 
 }
-var_dump($cntrprts_data);
 
 try {
     foreach( $cntrprts_data as $cntrprt ) {
